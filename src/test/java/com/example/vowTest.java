@@ -1,7 +1,7 @@
 package com.example;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-class VowelCountTest {
+class vowTest {
     @Test
     void testVowels() {
         assertEquals(3, VowelCount.count("Hello World"));

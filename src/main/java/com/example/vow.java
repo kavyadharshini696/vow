@@ -1,5 +1,5 @@
 package com.example;
-public class VowelCount {
+public class vow {
     public static int count(String s) {
         int total = 0;
         for (char c : s.toLowerCase().toCharArray()) {
